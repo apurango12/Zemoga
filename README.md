@@ -1,5 +1,4 @@
-# Zemoga Test Automation - Arcadio De Jesus Buelvas Hernandez
-
+# Zemoga Test Automation
 This repo uses:
 
 Selenium
